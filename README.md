@@ -5,3 +5,4 @@
 2. There is a c.vim.example file in the archive, just copy the content in `~/.vim/after/syntax/c.vim`
 
 
+![Demonstration of CPython Syntax](http://i.imgur.com/0k13KOU.png)
