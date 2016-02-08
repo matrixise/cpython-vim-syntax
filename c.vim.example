@@ -1,0 +1,4 @@
+" Vim syntax file example
+" Put it in ~/.vim/after/syntax/ and tailer to your needs.
+
+runtime! syntax/cpython.vim
